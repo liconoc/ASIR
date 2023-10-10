@@ -1,0 +1,11 @@
+Nombre_Pelicula	Valoracion
+Matrix	9
+Titanic	8
+Star Wars	10
+Jurassic Park	7
+Inception	9
+Avatar	8
+The Shawshank Redemption	10
+The Godfather	9
+Forrest Gump	8
+The Dark Knight	10
