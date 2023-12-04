@@ -1,0 +1,6 @@
+<?php 
+//Los siguientes valores han sido eliminados por seguridad
+//Rellenar antes de continuar
+$http_default_port=pon_aqui_un_valor_numerico;
+$https_default_port=pon_aqui_un_valor_numerico;
+$clave_cables=pon_aqui_un_valor_numerico;
